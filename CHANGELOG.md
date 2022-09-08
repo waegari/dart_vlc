@@ -1,3 +1,7 @@
+## windows-vlc-version-update
+
+- add transcode option for ts recode
+
 ## 0.3.0
 * BREAKING CHANGES
   * Removed iOS support
