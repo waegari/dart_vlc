@@ -23,6 +23,7 @@ dependencies:
 dependency_overrides:
   dart_vlc_ffi:
     path: ./ffi
+# flutter SDK 업그레이드 시 수정요
 
 flutter:
   # No platform channel implementation after migration to FFI.
