@@ -1,3 +1,7 @@
+## windows-vlc-version-update
+
+- add transcode option for ts recode
+
 ## 0.4.0
 
 - Bumped `ffi` to `2.0.1`.
